@@ -46,6 +46,7 @@
       "shift-k": "editor::Hover",
       "space a": "editor::ToggleCodeActions",
       "space r": "editor::Rename",
+      "space g o": "editor::OrganizeImports",
       "space f": "file_finder::Toggle",
       "space o": "tab_switcher::Toggle",
       "space e": "workspace::ToggleLeftDock",
@@ -54,5 +55,6 @@
     }
   }
 ]
+
 
 ```
